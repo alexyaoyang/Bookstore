@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type='text/xsl' href='soffer.xsl'?>
+
+<Book>
+
+	<Item>
+		<Title>Who moved my cheese?</Title>
+		<Price>14.99</Price>
+		<Quantity>15</Quantity>
+		<Description>You WILL regret to miss this New York's Top selling book for a Whopping price of $14.99!</Description>
+
+	</Item>
+
+	<Item>
+		<Title>3 Little Pigs</Title>
+		<Price>5.00</Price>
+		<Quantity>6</Quantity>
+		<Description>Very famous Children Story, perfect for bedtime story!</Description>
+
+	</Item>
+	
+	<Item>
+		<Title>Harry Potter</Title>
+		<Price>9.99</Price>
+		<Quantity>10</Quantity>
+		<Description>CLEARANCE SALE! Famous Fiction Book for only $9.99!</Description>
+
+	</Item>
+
+</Book>
