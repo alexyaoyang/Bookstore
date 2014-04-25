@@ -1,4 +1,4 @@
-## Enterprise Web Application (ESE3009)
+## Enterprise Web Application
 
 An online bookstore.
 Built with Java, JSP, HTML, using MS Access for DB.
